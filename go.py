@@ -1,5 +1,10 @@
-#!/usr/bin/env python3
-
+import linecache
 import random
-print(random.randint(1,78))
+
+i = random.randint(1,78)
+print(i)
+
+print('your random tarot card is...\n')
+
+print(linecache.getline('cards.txt', int(i)))
 
