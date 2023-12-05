@@ -1,3 +1,4 @@
+the fool
 the magician
 the high priestess
 the empress
@@ -18,7 +19,6 @@ the star
 the moon
 the sun
 judgment
-the fool
 the world
 the king of wands
 the queen of wands
