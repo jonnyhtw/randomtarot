@@ -4,7 +4,7 @@ import os
 
 os.chdir(os.path.expanduser('~/randomtarot'))
 
-print(os.getcwd())
+#print(os.getcwd())
 
 i = random.randint(1,78)
 
@@ -14,13 +14,8 @@ linenumber = linecache.getline('cardnames.txt', int(i))
 print(str(linenumber))
 
 thecard = str(linecache.getline('cardfiles.txt', int(i)))
-print(thecard)
+#print(thecard)
 
-greppattern = 'grep -i -m 1 -A 21 ' + '\''+str(linenumber[0:-1])+'\'' + ' cards.js'
-
-os.system(greppattern+'|tail -20') 
-
-print(greppattern)
 
 os.system('display '+thecard)
 
