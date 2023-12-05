@@ -2,6 +2,7 @@
 
 import linecache
 import random
+import platform
 import os
 
 os.chdir(os.path.expanduser('~/randomtarot'))
@@ -14,5 +15,8 @@ print('... random tarot card ...\n' + str(thecard))
 
 thefile = str(linecache.getline('cardfiles.txt', int(i)))
 
-os.system('display '+thefile)
+if platform.system() == 'Darwin':
+    os.system('open '+thefile)
+elif platform.system() == 'Linux':
+    os.system('display '+thefile)
 
