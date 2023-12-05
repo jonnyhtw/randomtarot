@@ -11,8 +11,10 @@ i = random.randint(1,78)
 print('your random tarot card is...\n')
 
 linenumber = linecache.getline('cardnames.txt', int(i))
+print(linenumber)
 
 thecard = str(linecache.getline('cardfiles.txt', int(i)))
+print(thecard)
 
 os.system('display '+thecard)
 
