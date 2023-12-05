@@ -18,61 +18,61 @@ the tower
 the star
 the moon
 the sun
-judgment
+judgement
 the world
-the king of wands
-the queen of wands
-the knight of wands
-the page of wands
-the 10 of wands
-the 9 of wands
-the 8 of wands
-the 7 of wands
-the 6 of wands
-the 5 of wands
-the 4 of wands
-the 3 of wands
-the 2 of wands
-the ace of wands
-the king of cups
-the queen of cups
-the knight of cups
-the page of cups
-the 10 of cups
-the 9 of cups
-the 8 of cups
-the 7 of cups
-the 6 of cups
-the 5 of cups
-the 4 of cups
-the 3 of cups
-the 2 of cups
-the ace of cups
-the king of swords
-the queen of swords
-the knight of swords
-the page of swords
-the 10 of swords
-the 9 of swords
-the 8 of swords
-the 7 of swords
-the 6 of swords
-the 5 of swords
-the 4 of swords
-the 3 of swords
-the 2 of swords
-the ace of swords
-the king of pentacles
-the queen of pentacles
-the knight of pentacles
-the page of pentacles
-the 10 of pentacles
-the 9 of pentacles
-the 8 of pentacles
-the 7 of pentacles
-the 6 of pentacles
-the 5 of pentacles
-the 4 of pentacles
-the 3 of pentacles
-the 2 of pentacles
-the ace of pentacles
+king of wands
+queen of wands
+knight of wands
+page of wands
+ten of wands
+nine of wands
+eight of wands
+seven of wands
+six of wands
+five of wands
+four of wands
+three of wands
+two of wands
+ace of wands
+king of cups
+queen of cups
+knight of cups
+page of cups
+ten of cups
+nine of cups
+eight of cups
+seven of cups
+six of cups
+five of cups
+four of cups
+three of cups
+two of cups
+ace of cups
+king of swords
+queen of swords
+knight of swords
+page of swords
+ten of swords
+nine of swords
+eight of swords
+seven of swords
+six of swords
+five of swords
+four of swords
+three of swords
+two of swords
+ace of swords
+king of pentacles
+queen of pentacles
+knight of pentacles
+page of pentacles
+ten of pentacles
+nine of pentacles
+eight of pentacles
+seven of pentacles
+six of pentacles
+five of pentacles
+four of pentacles
+three of pentacles
+two of pentacles
+ace of pentacles

@@ -18,7 +18,7 @@ thetower.jpg
 thestar.jpg
 themoon.jpg
 thesun.jpg
-judgment.jpg
+judgement.jpg
 theworld.jpg
 wandsking.jpg
 wandsqueen.jpg
