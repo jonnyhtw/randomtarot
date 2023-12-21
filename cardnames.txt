@@ -76,81 +76,81 @@ four of pentacles
 three of pentacles
 two of pentacles
 ace of pentacles
-the fool, rotated
-the magician, rotated
-the high priestess, rotated
-the empress, rotated
-the emperor, rotated
-the hierophant, rotated
-the lovers, rotated
-the chariot, rotated
-strength, rotated
-the hermit, rotated
-wheel of furtune, rotated
-justice, rotated
-the hanged man, rotated
-death, rotated
-temperance, rotated
-the devil, rotated
-the tower, rotated
-the star, rotated
-the moon, rotated
-the sun, rotated
-judgement, rotated
-the world, rotated
-king of wands, rotated
-queen of wands, rotated
-knight of wands, rotated
-page of wands, rotated
-ten of wands, rotated
-nine of wands, rotated
-eight of wands, rotated
-seven of wands, rotated
-six of wands, rotated
-five of wands, rotated
-four of wands, rotated
-three of wands, rotated
-two of wands, rotated
-ace of wands, rotated
-king of cups, rotated
-queen of cups, rotated
-knight of cups, rotated
-page of cups, rotated
-ten of cups, rotated
-nine of cups, rotated
-eight of cups, rotated
-seven of cups, rotated
-six of cups, rotated
-five of cups, rotated
-four of cups, rotated
-three of cups, rotated
-two of cups, rotated
-ace of cups, rotated
-king of swords, rotated
-queen of swords, rotated
-knight of swords, rotated
-page of swords, rotated
-ten of swords, rotated
-nine of swords, rotated
-eight of swords, rotated
-seven of swords, rotated
-six of swords, rotated
-five of swords, rotated
-four of swords, rotated
-three of swords, rotated
-two of swords, rotated
-ace of swords, rotated
-king of pentacles, rotated
-queen of pentacles, rotated
-knight of pentacles, rotated
-page of pentacles, rotated
-ten of pentacles, rotated
-nine of pentacles, rotated
-eight of pentacles, rotated
-seven of pentacles, rotated
-six of pentacles, rotated
-five of pentacles, rotated
-four of pentacles, rotated
-three of pentacles, rotated
-two of pentacles, rotated
-ace of pentacles, rotated
+the fool, reversed
+the magician, reversed
+the high priestess, reversed
+the empress, reversed
+the emperor, reversed
+the hierophant, reversed
+the lovers, reversed
+the chariot, reversed
+strength, reversed
+the hermit, reversed
+wheel of furtune, reversed
+justice, reversed
+the hanged man, reversed
+death, reversed
+temperance, reversed
+the devil, reversed
+the tower, reversed
+the star, reversed
+the moon, reversed
+the sun, reversed
+judgement, reversed
+the world, reversed
+king of wands, reversed
+queen of wands, reversed
+knight of wands, reversed
+page of wands, reversed
+ten of wands, reversed
+nine of wands, reversed
+eight of wands, reversed
+seven of wands, reversed
+six of wands, reversed
+five of wands, reversed
+four of wands, reversed
+three of wands, reversed
+two of wands, reversed
+ace of wands, reversed
+king of cups, reversed
+queen of cups, reversed
+knight of cups, reversed
+page of cups, reversed
+ten of cups, reversed
+nine of cups, reversed
+eight of cups, reversed
+seven of cups, reversed
+six of cups, reversed
+five of cups, reversed
+four of cups, reversed
+three of cups, reversed
+two of cups, reversed
+ace of cups, reversed
+king of swords, reversed
+queen of swords, reversed
+knight of swords, reversed
+page of swords, reversed
+ten of swords, reversed
+nine of swords, reversed
+eight of swords, reversed
+seven of swords, reversed
+six of swords, reversed
+five of swords, reversed
+four of swords, reversed
+three of swords, reversed
+two of swords, reversed
+ace of swords, reversed
+king of pentacles, reversed
+queen of pentacles, reversed
+knight of pentacles, reversed
+page of pentacles, reversed
+ten of pentacles, reversed
+nine of pentacles, reversed
+eight of pentacles, reversed
+seven of pentacles, reversed
+six of pentacles, reversed
+five of pentacles, reversed
+four of pentacles, reversed
+three of pentacles, reversed
+two of pentacles, reversed
+ace of pentacles, reversed
