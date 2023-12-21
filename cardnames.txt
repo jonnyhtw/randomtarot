@@ -76,3 +76,81 @@ four of pentacles
 three of pentacles
 two of pentacles
 ace of pentacles
+the fool, rotated
+the magician, rotated
+the high priestess, rotated
+the empress, rotated
+the emperor, rotated
+the hierophant, rotated
+the lovers, rotated
+the chariot, rotated
+strength, rotated
+the hermit, rotated
+wheel of furtune, rotated
+justice, rotated
+the hanged man, rotated
+death, rotated
+temperance, rotated
+the devil, rotated
+the tower, rotated
+the star, rotated
+the moon, rotated
+the sun, rotated
+judgement, rotated
+the world, rotated
+king of wands, rotated
+queen of wands, rotated
+knight of wands, rotated
+page of wands, rotated
+ten of wands, rotated
+nine of wands, rotated
+eight of wands, rotated
+seven of wands, rotated
+six of wands, rotated
+five of wands, rotated
+four of wands, rotated
+three of wands, rotated
+two of wands, rotated
+ace of wands, rotated
+king of cups, rotated
+queen of cups, rotated
+knight of cups, rotated
+page of cups, rotated
+ten of cups, rotated
+nine of cups, rotated
+eight of cups, rotated
+seven of cups, rotated
+six of cups, rotated
+five of cups, rotated
+four of cups, rotated
+three of cups, rotated
+two of cups, rotated
+ace of cups, rotated
+king of swords, rotated
+queen of swords, rotated
+knight of swords, rotated
+page of swords, rotated
+ten of swords, rotated
+nine of swords, rotated
+eight of swords, rotated
+seven of swords, rotated
+six of swords, rotated
+five of swords, rotated
+four of swords, rotated
+three of swords, rotated
+two of swords, rotated
+ace of swords, rotated
+king of pentacles, rotated
+queen of pentacles, rotated
+knight of pentacles, rotated
+page of pentacles, rotated
+ten of pentacles, rotated
+nine of pentacles, rotated
+eight of pentacles, rotated
+seven of pentacles, rotated
+six of pentacles, rotated
+five of pentacles, rotated
+four of pentacles, rotated
+three of pentacles, rotated
+two of pentacles, rotated
+ace of pentacles, rotated

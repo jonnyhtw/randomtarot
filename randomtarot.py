@@ -7,7 +7,7 @@ import os
 
 os.chdir(os.path.expanduser('~/randomtarot'))
 
-i = random.randint(1,78)
+i = random.randint(1,78*2)
 
 
 thecard = linecache.getline('cardnames.txt', int(i))
